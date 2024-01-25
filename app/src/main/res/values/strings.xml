@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">01_SupVinciA</string>
+    <string name="toto">Hello</string>
+</resources>
